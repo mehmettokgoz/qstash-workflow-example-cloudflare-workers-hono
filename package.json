@@ -2,7 +2,7 @@
   "name": "cloudflare-workers",
   "version": "0.0.0",
   "dependencies": {
-    "@upstash/qstash": "2.7.2",
+    "@upstash/qstash": "2.7.3",
     "hono": "^4.5.8"
   },
   "devDependencies": {
